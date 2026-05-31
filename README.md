@@ -7,8 +7,6 @@
 
 **Master DSA Through Real Projects** – a modern, interactive showcase where you can explore, submit, and learn from algorithm‑focused projects.
 
-![Hero Screenshot](public/images/hero-preview.png)
-
 ## ✨ Features
 
 - 🧩 **Project Gallery** – filter by difficulty, topic, language; smooth search

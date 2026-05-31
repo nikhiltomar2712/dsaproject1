@@ -42,5 +42,5 @@ data/           → Static project & roadmap data
 lib/            → Utility functions (cn)
 public/         → Static assets
    ```bash
-   git clone https://github.com/yourusername/dsa-project-site.git
+   git clone https://github.com/nikhiltomar2712/dsa-project-site.git
    cd dsa-project-site
